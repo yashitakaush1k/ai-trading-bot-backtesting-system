@@ -92,7 +92,7 @@ trading_bot_backtest/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-trading-bot.git
+git clone https://github.com/yashitakaush1k/ai-trading-bot.git
 cd ai-trading-bot
 ```
 
@@ -224,7 +224,7 @@ This project demonstrates:
 
 Yashita Kaushik
 
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: https://github.com/yashitakaush1k
 
 ---
 
